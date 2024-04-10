@@ -1,0 +1,43 @@
+{
+    "Hotfeed" :
+    [
+        {
+            "text" : "Hi! This is Rockstar Raaz. Checkout my new album releasing this March 'TIDIN TIN MUSTAFA' ",
+            "imageUrl" : "https://raw.githubusercontent.com/GritbyteTest/MusicGallery/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-LivingTheDream_scaled.jpg"
+        },
+        {
+            "text" : "AAA KICHIK",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-MaydayMayday_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "JAI SADHU MAHARAJ",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-NaturesSanctuary_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "KINGSTON KANISKAR",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-RaysOfGrace_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "MONTY MADUVE MANGALAVARA, OOTA KE BANNI SHANIVARA",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Daanoe-IndustrialLight_scaled.jpg?raw=true"
+        }
+    ],
+    "Movies" :
+    [
+        {
+            "movieName" : "RHJ City Winery v1",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie1.png",
+            "movieUrl" : "https://d91oepu6xkf25.cloudfront.net/Daanoe-MajesticForest.mp4"
+        },
+        {
+            "movieName" : "Snow Raven (Suor)",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie2.jpg",
+            "movieUrl" : "https://d91oepu6xkf25.cloudfront.net/Daanoe-Dusty.mp4"
+        },
+        {
+            "movieName" : "Elysium Dreams",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie3.jpg",
+            "movieUrl" : "https://d1ae9t1njfaguq.cloudfront.net/SNOW%20RAVEN%20(SUOR)%20CONCERT%20FINAL%20with%20CREDITS.m3u8"
+        }
+    ]
+}
