@@ -25,19 +25,34 @@
     "Movies" :
     [
         {
-            "movieName" : "RHJ City Winery v1",
-            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie1.png",
-            "movieUrl" : "https://d91oepu6xkf25.cloudfront.net/Daanoe-MajesticForest.mp4"
+            "movieName" : "Elysium Dreams, Part 1",
+            "movieThumbnail" : "https://drive.google.com/file/d/13b0eiM9XtvWSm_LLG0_a8tKlf2U8xrRU/view?usp=drive_link",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART1/ElysiumDreamsVRPART1_03-14-24.m3u8"
         },
         {
-            "movieName" : "Snow Raven (Suor)",
-            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie2.jpg",
-            "movieUrl" : "https://d91oepu6xkf25.cloudfront.net/Daanoe-Dusty.mp4"
+            "movieName" : "Elysium Dreams, Part 2",
+            "movieThumbnail" : "https://drive.google.com/file/d/13b0eiM9XtvWSm_LLG0_a8tKlf2U8xrRU/view?usp=drive_link",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART2/ElysiumDreamsVRPART2_03-14-24.m3u8"
         },
         {
-            "movieName" : "Elysium Dreams",
-            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie3.jpg",
-            "movieUrl" : "https://d1ae9t1njfaguq.cloudfront.net/SNOW%20RAVEN%20(SUOR)%20CONCERT%20FINAL%20with%20CREDITS.m3u8"
+            "movieName" : "Elysium Dreams, Part 3",
+            "movieThumbnail" : "https://drive.google.com/file/d/13b0eiM9XtvWSm_LLG0_a8tKlf2U8xrRU/view?usp=drive_link",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART3/ElysiumDreamsVRPART3_03-14-24.m3u8"
+        },
+        {
+            "movieName" : "RHJ Live! @ City Winery Atlanta, Part 1",
+            "movieThumbnail" : "https://drive.google.com/file/d/1ehAFuckJDUtavSSM6izlkSYgHry5X40q/view?usp=drive_link",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/RHJ City Winery PART1/RHJ City Winery PART1 03-13-24.m3u8"
+        },
+        {
+            "movieName" : "RHJ Live! @ City Winery Atlanta, Part 2",
+            "movieThumbnail" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/RHJ City Winery PART2/RHJ City Winery PART2 03-13-24.m3u8",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART2/ElysiumDreamsVRPART2_03-14-24.m3u8"
+        },
+        {
+            "movieName" : "Snow Raven",
+            "movieThumbnail" : "https://drive.google.com/file/d/1KooPW9262n4kdBenosNfxH4EN_Od7hqW/view?usp=drive_link",
+            "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/SNOW RAVEN (SUOR) CONCERT FINAL with CREDITS/SNOW RAVEN (SUOR) CONCERT FINAL with CREDITS.m3u8"
         }
     ]
 }
