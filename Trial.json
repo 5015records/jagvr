@@ -26,32 +26,32 @@
     [
         {
             "movieName" : "Elysium Dreams, Part 1",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail2.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail-1920X1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART1/ElysiumDreamsVRPART1_03-14-24.m3u8"
         },
         {
             "movieName" : "Elysium Dreams, Part 2",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail2.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail-1920X1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART2/ElysiumDreamsVRPART2_03-14-24.m3u8"
         },
         {
             "movieName" : "Elysium Dreams, Part 3",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail2.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Elysium-Dreams-Thumbnail-1920X1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART3/ElysiumDreamsVRPART3_03-14-24.m3u8"
         },
         {
             "movieName" : "RHJ Live! @ City Winery Atlanta, Part 1",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/RHJLive-Atlanta-Thumbnail.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/RHJLive-Atlanta-Thumbnail-1920x1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/RHJ City Winery PART1/RHJ City Winery PART1 03-13-24.m3u8"
         },
         {
             "movieName" : "RHJ Live! @ City Winery Atlanta, Part 2",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/RHJLive-Atlanta-Thumbnail.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/RHJLive-Atlanta-Thumbnail-1920x1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/ElysiumDreamsVRPART2/ElysiumDreamsVRPART2_03-14-24.m3u8"
         },
         {
             "movieName" : "Snow Raven",
-            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Snow-Rvn-Thumbnail.jpg",
+            "movieThumbnail" : "https://jagvrthumbnails.s3.us-east-2.amazonaws.com/Snow-Rvn-Thumbnail-1920x1080.jpg",
             "movieUrl" : "https://dxgkbvwuqa4ba.cloudfront.net/HLSconversions/SNOW RAVEN (SUOR) CONCERT FINAL with CREDITS/SNOW RAVEN (SUOR) CONCERT FINAL with CREDITS.m3u8"
         }
     ]
